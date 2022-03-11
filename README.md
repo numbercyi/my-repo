@@ -13,6 +13,7 @@ pull - 사람들이 올린게 있나? 확인
 clone - 복제
 
 working -> staging area -> repository
+
 수정한 파일  -> 수정 한것중 버전만들것 -> 버전 완료
 1. git init .
 - 깃을 이제 시작한다  '.'은 현재 디렉토리에 시작한다.
